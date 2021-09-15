@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Wamarisen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+~ Yo, eu assino como Wamarisen,
 
+~ Nice to meet you,
+
+~ Pode me enconstrar através do Discord
+
+               Aʀᴀsʜɪ Wᴀᴍᴀʀɪsᴇɴ 嵐#0018
 <!---
 Wamarisen/Wamarisen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
